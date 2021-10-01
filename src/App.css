@@ -24,6 +24,12 @@
   color: white;
 }
 
+#showcase {
+  background: url("https://wallpapercave.com/wp/wp5960734.jpg") center/cover
+    no-repeat;
+  min-height: 55vh;
+}
+
 .App-link {
   color: #61dafb;
 }
